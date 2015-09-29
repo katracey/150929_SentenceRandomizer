@@ -1,0 +1,3 @@
+﻿she,he,it
+ate,begged,fell
+at the ocean,in the sky,to the moon
